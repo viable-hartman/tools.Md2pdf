@@ -1,6 +1,5 @@
 \pagenumbering{gobble}
 ![FIWARE logo](fiware_logo.png)
-
 ![cover image](cover_img.png)
 
 \begin{center}
@@ -11,12 +10,10 @@ Our mission at IOVOX is to make data from business phone calls useful, valuable,
 \end{center}
 
 
-
-
 \pagenumbering{gobble}
 
 
-
 # <title>
+
 
 
