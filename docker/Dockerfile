@@ -1,7 +1,7 @@
 FROM ubuntu
 MAINTAINER Viable-Hartman Viable <viable.hartman@gmail.com>
 
-ENV md2pdf_version 0.2.3
+ENV md2pdf_version 0.2.4
 
 RUN apt-get update
 RUN apt-get upgrade -y

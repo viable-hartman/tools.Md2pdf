@@ -1,18 +1,19 @@
 \pagenumbering{gobble}
+![FIWARE logo](fiware_logo.png)
+
 ![cover image](cover_img.png)
 
 \begin{center}
-Private Public Partnership Project (PPP) 
+IOVOX Inc. (US), IOVOX Ltd. (UK)
 \end{center}
 \begin{center}
-Large-scale Integrated Project (IP)  
+Our mission at IOVOX is to make data from business phone calls useful, valuable, and actionable.
 \end{center}
 
 
 
 
 \pagenumbering{gobble}
-![FIWARE logo](fiware_logo.png)
 
 
 
