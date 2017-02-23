@@ -1,6 +1,6 @@
 \pagenumbering{gobble}
 ![FIWARE logo](fiware_logo.png)
-![cover image](cover_img.png)
+![](cover_img.png)
 
 \begin{center}
 IOVOX Inc. (US), IOVOX Ltd. (UK)
@@ -9,11 +9,10 @@ IOVOX Inc. (US), IOVOX Ltd. (UK)
 Our mission at IOVOX is to make data from business phone calls useful, valuable, and actionable.
 \end{center}
 
-
 \pagenumbering{gobble}
 
-
 # <title>
+
 
 
 
